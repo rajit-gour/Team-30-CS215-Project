@@ -1,0 +1,8 @@
+month,source,sheet,cell_reference,individual_single,individual_non_single,individual_total,method
+2019-03,IRDAI_070.xlsx,FYP as at 31st March' 2019,K368;K369,214020,5320167,5534187,English version appended beneath Hindi version
+2021-06,IRDAI_077.xlsx,FYP as at 30th June' 2021,K180;K181,80657,1523186,1603843,Incorrect printed header year For June 20201; workbook date and prior report match
+2021-07,IRDAI_087.xlsx,FYP as at 31st July' 2021,K180;K181,102601,1999568,2102169,Incorrect printed header year For July 20201; workbook date and prior report match
+2022-07,IRDAI_072.xlsx,Sheet3,K180;K181,98376,2187264,2285640,Workbook mislabels July 2022 as June 2022: values agree with July 2023 previous-year comparison in IRDAI_033
+2022-09,IRDAI_013.xlsx,Sept 2023,J194;J195,105059,1897589,2002648,September 2022 reconstructed from same-month prior-year comparison in September 2023 report
+2023-07,IRDAI_034.xlsx,as at 31st July 2024,J187;J188,99588,2221585,2321173,July 2023 reconstructed from same-month prior-year comparison in July 2024 report
+2022-06,IRDAI_050.xlsx,as at 30th June 2022,K180;K181,97048,2032772,2129820,Resolve conflict: IRDAI_072 contains July 2022 data despite headers labeled June; IRDAI_050 is actual June 2022

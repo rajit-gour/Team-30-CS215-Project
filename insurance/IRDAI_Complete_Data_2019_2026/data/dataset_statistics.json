@@ -1,0 +1,15 @@
+{
+  "source_workbooks": 95,
+  "months": 93,
+  "start": "2019-01",
+  "end": "2026-09",
+  "mean_individual_policies": 2380607.5,
+  "median_individual_policies": 2190606,
+  "min": 415424,
+  "max": 6030727,
+  "main_total_crosschecks_passed": 93,
+  "lic_private_count_reconciliations_passed": 93,
+  "lic_private_premium_reconciliations_passed": 93,
+  "insurer_current_metric_records": 57448,
+  "other_all_period_metric_records": 373942
+}
